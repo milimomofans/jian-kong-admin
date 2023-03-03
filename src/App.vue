@@ -1,0 +1,19 @@
+<template>
+  <router-view></router-view>
+</template>
+
+<script setup>
+
+</script>
+
+<style lang="scss">
+html {
+  font-size: 100px !important;
+}
+body {
+  margin:0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+</style>
